@@ -1,13 +1,13 @@
 # HOME LIGHT CONTROLLER
 
 ## AUTHORS
-* [오성은 Seongeun Oh](https://github.com/luanaeun)
+* [luanaeun](https://github.com/luanaeun)  
   Team Leader, Frontend Developer
-* [조석현 Seokhyeon Cho](https://github.com/dowol)
+* [dowol](https://github.com/dowol)  
   Main Engineer, Backend Developer, Idea provider
-* [이준민 Joonmin Lee](https://github.com/)
+* [LJ0976](https://github.com/)  
   Model house Maker, Clerk
-* [사공민 Min Sagong](https://github.com/)
+* [Sagongmin](https://github.com/)  
   Frondend Developer Assistance, Clerk
 
 ## OVERVIEW
