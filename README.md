@@ -16,3 +16,4 @@
 
 This is the result of joined for **4-weeks project** campaign from **Project Busan**, the club for students who major in IT, at Busan, South Korea.
 
+This device is to remote-control the lights in house, using mobile phone via internet.
