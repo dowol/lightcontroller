@@ -5,9 +5,9 @@
   Team Leader, Frontend Developer
 * [dowol](https://github.com/dowol)  
   Main Engineer, Backend Developer, Idea provider
-* [LJ0976](https://github.com/)  
+* [LJ0976](https://github.com/LJ0976)  
   Model house Maker, Clerk
-* [Sagongmin](https://github.com/)  
+* [Sagongmin](https://github.com/Sagongmin)  
   Frondend Developer Assistance, Clerk
 
 ## OVERVIEW
