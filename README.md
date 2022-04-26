@@ -8,7 +8,7 @@
 * [LJ0976](https://github.com/LJ0976) :
   Model house Maker, Clerk
 * [Sagongmin](https://github.com/Sagongmin) :
-  Frondend Developer Assistance, Clerk
+  Frontend Developer Assistance, Clerk
 
 ## OVERVIEW
 <div lang="ko">
