@@ -1,8 +1,6 @@
 # HOME LIGHT CONTROLLER
 
 ## AUTHORS
-* [luanaeun](https://github.com/luanaeun): 
-  Team Leader, Frontend Developer
 * [dowol](https://github.com/dowol) :
   Main Engineer, Backend Developer, Idea provider
 * [LJ0976](https://github.com/LJ0976) :
